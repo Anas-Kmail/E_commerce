@@ -1,0 +1,13 @@
+.middle{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 20px;
+text-align: center;
+background: rgba(0, 0, 0);
+
+}
+.middle h1{
+color: #fff;
+
+}
